@@ -9,7 +9,7 @@
 ### 👨‍🎓 About Me
 - Third-year undergraduate at **[National Institute of Technology Agartala]**  
 - Passionate about **Data Analysis** and **Business Intelligence Tools**  
-- 📧 Email: pawanvermanita123.com (mailto:youremail@example.com)  
+- 📧 Email:  (mailto:pawanvermanita123.com)  
 
 ---
 
