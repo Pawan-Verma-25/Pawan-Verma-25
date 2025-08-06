@@ -6,14 +6,14 @@
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 - Third-year undergraduate at **[National Institute of Technology Agartala]**  
 - Passionate about **Data Analysis** and **Business Intelligence Tools**  
 - 📧 Email:  (mailto:pawanvermanita123.com)  
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -25,11 +25,11 @@
 
 ---
 
-### 📌 Popular Projects
+###  Popular Projects
 - [Superstore-Sales-and-Forecasting](https://github.com/Pawan-Verma-25/SuperStore-Sales-and-forecasting-) — Power BI dashboard for dynamic visualization and forecasting  
 
 
 ---
 
-### 🔗 Let's Connect
+###  Let's Connect
 [(https://www.linkedin.com/in/pawan-kumar-verma-415a15248/)]
