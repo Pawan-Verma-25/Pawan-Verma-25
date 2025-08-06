@@ -32,4 +32,4 @@
 ---
 
 ### 🔗 Let's Connect
-[(https://www.linkedin.com/in/pawan-kumar-verma-415a15248/)](https://img.shields.io/badge/LinkedIn-Pawan%20Verma-blue?logo=linkedin)](#)
+[(https://www.linkedin.com/in/pawan-kumar-verma-415a15248/)]
