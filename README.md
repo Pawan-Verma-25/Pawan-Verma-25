@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Popular Projects
-- [Superstore-Sales-and-Forecasting](#) — Power BI dashboard for dynamic visualization and forecasting  
+- [Superstore-Sales-and-Forecasting](https://github.com/Pawan-Verma-25/SuperStore-Sales-and-forecasting-) — Power BI dashboard for dynamic visualization and forecasting  
 
 
 ---
