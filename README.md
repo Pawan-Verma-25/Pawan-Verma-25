@@ -1,4 +1,4 @@
-# Hi, I'm Pawan Verma  
+# Hi, I'm Pawan Kumar Verma  
 
 **Data enthusiast turning raw numbers into impactful insights.**  
 
@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍🎓 About Me
-- Third-year undergraduate at **[Your College Name], [Your Department Name]**  
+- Third-year undergraduate at **[National Institute of Technology Agartala]**  
 - Passionate about **Data Analysis** and **Business Intelligence Tools**  
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 📧 Email: pawanvermanita123.com (mailto:youremail@example.com)  
 
 ---
 
@@ -27,16 +27,9 @@
 
 ### 📌 Popular Projects
 - [Superstore-Sales-and-Forecasting](#) — Power BI dashboard for dynamic visualization and forecasting  
-- [Retail-Store-Data-Analysis-Excel](#) — Analyzing purchasing patterns using Excel  
-- [Data-Visualization-Python](#) — EDA & visualization using Python  
-- [Music-Store-Analysis-SQL](#) — SQL analysis of music playlist database  
 
----
-
-### 📊 GitHub Stats
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn - Pawan](https://img.shields.io/badge/LinkedIn-Pawan%20Verma-blue?logo=linkedin)](#)
+[![[LinkedIn - Pawan](https://www.linkedin.com/in/pawan-kumar-verma-415a15248/)](https://img.shields.io/badge/LinkedIn-Pawan%20Verma-blue?logo=linkedin)](#)
